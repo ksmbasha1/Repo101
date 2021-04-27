@@ -13,7 +13,7 @@
          documentationContent=""
          homeMashup=""
          isDynamic="false"
-         lastModifiedDate="2021-04-27T05:05:45.525Z"
+         lastModifiedDate="2021-04-27T05:48:39.608Z"
          name="Repo101tag"
          projectName="demorepoproj"
          tags="">
@@ -34,6 +34,9 @@
             <VocabularyTerm
              description=""
              name="Repo101-001"></VocabularyTerm>
+            <VocabularyTerm
+             description=""
+             name="Repo101-1002"></VocabularyTerm>
         </ModelTagVocabulary>
     </ModelTags>
 </Entities>
